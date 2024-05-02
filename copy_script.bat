@@ -1,5 +1,5 @@
 @echo off
-set source_folder=C:\Users\PC\Desktop\Config CS2
+set source_folder=C:\Users\PC\Desktop\Wszystko\Config CS2\
 set destination_folder=D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 
 echo Copying files from %source_folder% to %destination_folder%...
