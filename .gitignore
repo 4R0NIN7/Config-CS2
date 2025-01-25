@@ -1,2 +1,3 @@
 copy_script.bat
 lint.py
+.cspell.json
