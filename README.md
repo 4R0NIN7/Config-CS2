@@ -6,7 +6,7 @@
 # Launch options
 
 ```
--allow_third_party_software +exec autoexec.cfg +r_dynamic 0 -fullscreen -high -nojoy
+-allow_third_party_software -noreflex +exec autoexec.cfg
 ```
 
 # Final words
