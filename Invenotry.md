@@ -41,6 +41,7 @@ A personal archive of knives and gloves I have owned in Counter-Strike 2.
 | 31 | Ursus Knife     | Doppler Phase 2       | Factory New  |     ✅    |
 | 32 | Skeleton Knife  | Tiger Tooth           | Factory New  |     ✅    |
 | 33 | Butterfly Knife | Gamma Doppler Phase 4 | Factory New  |     ✅    |
+| 34 | Falchion Knife  | Gamma Doppler Phase 2 | Factory New  |     ✅    |
 
 ---
 
